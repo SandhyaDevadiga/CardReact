@@ -1,0 +1,13 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color:white;
+  background-image: url('https://img.freepik.com/free-vector/decorative-tricolor-indian-flag-theme-texture_1055-7757.jpg?w=740&t=st=1722017441~exp=1722018041~hmac=7d38f611c8f36e1001dfbb227aa8b753703d1476835f68ea44a8aebbff2a401a');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
